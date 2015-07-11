@@ -1,0 +1,5 @@
+11 Jul 2015 12:53:31,701 INFO  ~ Starting /home/rumman/workspace/test
+11 Jul 2015 12:53:32,249 WARN  ~ You're running Play! in DEV mode
+11 Jul 2015 12:53:32,337 INFO  ~ Listening for HTTP on port 9000 (Waiting a first request to start) ...
+11 Jul 2015 12:53:41,850 INFO  ~ Connected to jdbc:mysql://localhost/yabe?useUnicode=yes&characterEncoding=UTF-8&connectionCollation=utf8_general_ci
+11 Jul 2015 12:53:43,198 INFO  ~ Application 'test' is now started !
